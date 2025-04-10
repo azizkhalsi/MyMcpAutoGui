@@ -1,0 +1,5 @@
+pyautogui==0.9.54
+python3-xlib==0.15
+pyobjc-framework-Quartz>=9.0  # For macOS
+pyobjc-core>=9.0  # For macOS
+pyobjc>=9.0  # For macOS 
