@@ -112,3 +112,7 @@ PyMCPAutoGUI exposes most functions from `pyautogui` and `pygetwindow`. Examples
 *   **Config ⚙️:** `set_pause`, `set_failsafe`
 
 For the full list and details, check the `pymcpautogui/server.py` file or use `@PyMCPAutoGUI list_tools` in your MCP client.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. Happy Automating! 😄
